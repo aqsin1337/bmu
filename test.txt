@@ -1,2 +1,6 @@
 birinci setir
+<<<<<<< Updated upstream
 salam
+=======
+lokal deyisiklik
+>>>>>>> Stashed changes
